@@ -65,7 +65,7 @@ public class Greeting {
     } else {
       theBook = Key.create(Guestbook.class, "default");
     }
-    this.content = "Your website is awsome! " + content;
+    this.content = "Your website is awesome! " + content;
   }
 
   /**
